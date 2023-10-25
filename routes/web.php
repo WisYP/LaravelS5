@@ -20,7 +20,7 @@ Route::get('/', function () {
 });
 
 Route::
-get('/DEANKT', function () {
+get('/repect', function () {
     echo "KEEP RESPECT EACH OTHER";
 });
 
