@@ -19,8 +19,8 @@ Route::get('/', function () {
 
 });
 
-Route::get('/DEANKT', function () {
-    //return view('welcome');
+Route::
+get('/DEANKT', function () {
     echo "KEEP RESPECT EACH OTHER";
 });
 
